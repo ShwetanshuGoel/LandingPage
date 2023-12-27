@@ -177,7 +177,7 @@ ul {
     padding: 5em 13em;
 }
 
-.blueblox {
+.bluebox {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -187,13 +187,23 @@ ul {
     border-radius: 10px;
 }
 
-.blueblox button {
+.bluebox button {
     border: 2px solid #FFF;
 }
 
 strong {
     font-size: 24px;
     color: #FFF;
+}
+
+.bbtext2 {
+    color: #FFF;
+}
+
+.bbsignup {
+    font-size: 18px;
+    color: red;
+    text-decoration: none;
 }
 
 footer {
